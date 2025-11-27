@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <title>秋井乃音斗</title>
+    </head>
+    <body>
+        <div class="container">
+            <img class="row" id="icon" src="flandre-scarlet-an-anarchist.jpg" />
+            <div class="row">
+                <h1>
+                    秋井乃音斗
+                    <span style="color: dimgrey; font-weight: normal">
+                        あきいのおと
+                    </span>
+                </h1>
+                <p>総破壊を目指すちょっと過激なアナキスト</p>
+                <table>
+                    <tr>
+                        <td><strong>思想</strong></td>
+                        <td>
+                            バクーニン主義 / ヘーゲル左派 / エゴイズム /
+                            シチュアシオニスト
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>組織</strong></td>
+                        <td>リバタリアン社会主義者連盟 / 前衛技術同盟</td>
+                    </tr>
+                    <tr>
+                        <td><strong>実践</strong></td>
+                        <td>街宣 / 転用(Détournement)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>能力</strong></td>
+                        <td>プログラミング / 文章執筆 / お絵描き</td>
+                    </tr>
+                    <tr>
+                        <td><strong>技術</strong></td>
+                        <td>低レイヤー開発 / コンパイラ自作</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+    <style>
+        body {
+            font-size: x-large;
+            color: rgba(0, 0, 0, 0.8);
+            margin: 0;
+            img#icon {
+                width: 25%;
+                margin-right: 10px;
+            }
+        }
+        .container {
+            display: flex;
+            flex-direction: row;
+            height: max-content;
+            .item {
+                position: relative;
+            }
+        }
+    </style>
+    <script>
+        let tds = document.querySelectorAll("td");
+        for (td of tds) {
+            td.innerHTML = td.innerHTML.replaceAll(
+                " /",
+                '<span style="color: lightgrey; font-weight: bold"> / </span>',
+            );
+        }
+    </script>
+</html>
