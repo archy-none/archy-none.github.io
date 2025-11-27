@@ -25,7 +25,11 @@
                     <tr>
                         <td><strong>組織</strong></td>
                         <td>
-                            反権威的な左翼を集めようと「リバタリアン社会主義者連盟」を形成してます
+                            反権威的な左翼を集めようと「
+                            <a href="https://libertarian-socialist.github.io/">
+                                リバタリアン社会主義者連盟
+                            </a>
+                            」を形成してます
                         </td>
                     </tr>
                     <tr>
@@ -43,7 +47,7 @@
                     <tr>
                         <td><strong>技術</strong></td>
                         <td>
-                            言語処理系、コンパイラ自作とか低レイヤー開発ばかり好きで、Webとかモバイルはまるで疎い
+                            言語やコンパイラの自作とか低レイヤー開発ばかり好きで、Webとかモバイルはまるで疎い
                         </td>
                     </tr>
                 </table>
@@ -55,21 +59,29 @@
             font-size: x-large;
             color: rgba(0, 0, 0, 0.8);
             margin: 0;
+            .container {
+                display: flex;
+                flex-direction: row;
+                height: max-content;
+                .item {
+                    position: relative;
+                }
+            }
             img#icon {
                 width: 25%;
                 margin-right: 10px;
             }
-        }
-        .container {
-            display: flex;
-            flex-direction: row;
-            height: max-content;
-            .item {
-                position: relative;
+            td {
+                padding: 5px;
             }
-        }
-        td {
-            padding: 5px;
+            a {
+                color: rgba(0, 0, 0, 0.8);
+                text-decoration: none;
+                &:hover {
+                    color: blueviolet;
+                    text-decoration: underline;
+                }
+            }
         }
     </style>
     <script>
