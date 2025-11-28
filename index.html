@@ -6,50 +6,46 @@
     <body>
         <div class="container">
             <img class="row" id="icon" src="flandre-scarlet-an-anarchist.jpg" />
-            <div class="row">
+            <div class="row" style="width: 900px">
                 <h1>
                     秋井乃音斗
                     <span style="color: dimgrey; font-weight: normal">
                         あきいのおと
                     </span>
                 </h1>
-                <p>自由の為に！総破壊を目指すちょっと過激なアナキスト</p>
-                <table>
-                    <tr>
-                        <td><strong>思想</strong></td>
-                        <td>
-                            バクーニン主義が根底にあって、あとヘーゲル左派、
-                            シチュアシオニストも勉強中
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><strong>組織</strong></td>
-                        <td>
-                            反権威的な左翼を結束させようと「<a
-                                href="https://libertarian-socialist.github.io/"
-                                >リバタリアン社会主義者連盟</a
-                            >」を組織してます
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><strong>実践</strong></td>
-                        <td>
-                            たまによく新宿駅前で街宣したりします。今はまだヘゲモニー闘争や転用が中心
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><strong>能力</strong></td>
-                        <td>
-                            思想的な文章の執筆とプログラミング、あと下手ですけど（左の画とか）お絵描きかな
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><strong>技術</strong></td>
-                        <td>
-                            言語やコンパイラの自作とか低レイヤー開発ばかり好きで、Webとかモバイルはまるで疎い
-                        </td>
-                    </tr>
-                </table>
+                <p id="lead">
+                    自由の為に！総破壊を目指すちょっと過激なアナキスト
+                </p>
+                <ul>
+                    <li>
+                        <strong>思想</strong>
+                        バクーニン主義が根底にあって、あとヘーゲル左派、
+                        シチュアシオニストも勉強中
+                    </li>
+                    <li>
+                        <strong>組織</strong>
+                        反権威的な左翼を結束させようと「<a
+                            href="https://libertarian-socialist.github.io/"
+                            >リバタリアン社会主義者連盟</a
+                        >」を組織してます
+                    </li>
+                    <li>
+                        <strong>実践</strong>
+                        たまに新宿駅前で街宣したりします。評議会自治したいけど、今はまだヘゲモニー闘争
+                    </li>
+                    <li>
+                        <strong>能力</strong>
+                        思想的な文章の執筆と、プログラミング、あと下手ですけど（左の画とか）お絵描きかな
+                    </li>
+                    <li>
+                        <strong>技術</strong>
+                        言語やコンパイラの自作とか低レイヤー開発ばかり好きで、Webとかモバイルは疎い
+                    </li>
+                </ul>
+                <p>
+                    僕のアナキズムの論理構造としては、私は世界に投げ出されており（被投性）尚且つ私は自由で有りたい（力への意志）故に、私の自由を抑圧する物を総破壊し（バクーニン主義）私の自由とそれに合致する物を肯定する。
+                    自由は存在の第一人称性から始まるが、私の自由と他者の自由を相互承認する事によって自由は社会的に存立する。
+                </p>
             </div>
         </div>
     </body>
@@ -69,15 +65,36 @@
             }
             h1 {
                 padding: 3px;
-                border-bottom: 2.5px dashed black;
+                padding-left: 0;
+                margin-bottom: 0;
+
+                border-bottom: 4px solid transparent;
+                border-image: linear-gradient(to right, red, black) 1;
             }
-            img#icon {
-                width: 400px;
-                margin-right: 10px;
+            p#lead {
+                margin-top: 10px;
+                margin-bottom: 5px;
+                font-size: 1em;
             }
-            td {
+            ul {
+                margin: 0;
+                li {
+                    list-style-type: square;
+                    padding: 3px;
+                    &::marker {
+                        color: grey;
+                    }
+                }
+            }
+            p,
+            li {
+                line-height: 1.2em;
                 font-size: 0.8em;
-                padding: 5px;
+            }
+
+            img#icon {
+                width: 500px;
+                margin-right: 10px;
             }
             a {
                 color: rgba(0, 0, 0, 0.8);
