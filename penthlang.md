@@ -112,7 +112,11 @@ Liber -> Liberity
 Bona -> Bonastvo
 Liber -> Liberstvo
 
-### 動詞 -> 名詞: `ing`(イング)
+### 動詞 -> 名詞: `ium`(イウム)
+Es -> Esium
+Mazh -> Mazhium
+
+### 動詞 -> 修飾詞: `ing`(イング)
 Es -> Esing
 Mazh -> Mazhing
 
