@@ -83,7 +83,7 @@ Anarkhist [名詞]: アナキスト、無政府主義者
 Nomen [名詞]: 氏名、名称、おなまえ
 la [冠詞]（固有のものに使う）
 
-# Ceet-Sheet de Syntaxy Rule: 文法規則チートシート
+# Cheet-Papeur de Syntaxy Rule: 文法規則チートシート
 
 ## 品詞の相互変換
 
