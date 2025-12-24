@@ -36,7 +36,11 @@ Najt [名詞]: 夜、深夜
 
 `<A> es <B>`で「AはB」であると言う事ができる
 
-# Cheet-Papeur de Syntaxy Rule et Word-Gruppe: 文法規則と語彙のチートシート
+
+---
+
+
+# 文法規則と語彙のチートシート
 
 ## 品詞の相互変換
 
