@@ -91,7 +91,7 @@ la [冠詞]（固有のものに使う）
 
 Penth-Langには副詞と形容詞の違いが無く、修飾詞が前に置かれた動詞/名詞を修飾する
 
-#### 所有を表す: `y`(=ы, ゥィ)
+#### 所有を表す: `y`(=ы, ゥイ)
 Mi -> My
 Anarkhist -> Anarkhisty
 
@@ -103,7 +103,13 @@ Anarkhist -> Anarkhisticce
 Mi -> Mely
 Anarkhist -> Anarkhistely
 
-### 名詞化: `stva`’(ストヴァ)
+### 名詞化
+
+#### 性質を表す: `ity`’(イトゥイ)
+Bona -> Boninty
+Liber -> Liberity
+
+#### 概念を表す: `stva`’(ストヴァ)
 Bona -> Bonastvo
 Liber -> Liberstvo
 
