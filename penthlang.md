@@ -148,6 +148,11 @@ Mazh: 食べる
 Leiv: 生きる
 Mort: 死ぬ
 Spif: 寝る
+Wake: 起きる
+Legi: 読む
+Fude: 書く
+Juz: 使う
+Trush: 捨てる
 
 ### [前置詞]
 a: 〜を
