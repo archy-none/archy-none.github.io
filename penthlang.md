@@ -215,6 +215,7 @@ Juz: 使う
 Trush: 捨てる
 Relat: 関わる
 Work: 作業する
+Lud: 遊ぶ
 
 ### [数詞]
 Nul: 0
