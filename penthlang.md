@@ -162,6 +162,7 @@ Najt: 夜、深夜
 Temp: 時間、時
 Land: 場所、土地
 Rizun: 理由、言い訳
+Bolum: 量、ボリューム
 
 Mond: 世界、環境
 Droid: 権限（形式上の）権利
