@@ -65,10 +65,10 @@ Najt [名詞]: 夜、深夜
 前置詞`ne`が否定を示す
 
 ### 連体修用
-> Mi ne mazh a pan
+> Mi ne Mazh a Pan
 私はパンを食べません
 
-> Mi mazh a ne pan
+> Mi Mazh a ne Pan
 私はパンでは無いものを食べます
 
 前置詞`ne`が否定を示す
