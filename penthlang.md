@@ -24,7 +24,7 @@ Morg [名詞]: 朝、夜明け
 Thaw [名詞]: 昼、昼間の
 Najt [名詞]: 夜、深夜
 
-## Ego-Prezent: 自己紹介
+## 自己紹介
 
 > Mi est Anarkhist
 ミ エス アナルキスト
@@ -36,7 +36,10 @@ Najt [名詞]: 夜、深夜
 
 `<A> es <B>`で「AはB」であると言う事ができる
 
+## 食べる
+> Mi 
 
+> Mi taber a ramentabel
 
 
 ---
@@ -93,8 +96,9 @@ Kame -> Kamil
 ## 本来的語彙
 
 ### [名詞]
-Mi: 私、自分
-Vi: 君、あなた
+Mi: 私、我々
+Vi: 君、あなたたち
+Hi: 彼、奴ら
 Anarkhist: アナキスト、無政府主義者
 Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
