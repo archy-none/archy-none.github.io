@@ -16,7 +16,7 @@
 
 お別れの時に使い、英語のByeに相当します
 
-### 1.2 Expretia Signifen Emotia: 感情を示す表現
+### 1.2 Expretia to Prove a Emotia: 感情を示す表現
 
 - Ferich
 フェリーチ
@@ -76,4 +76,4 @@ Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
 
-## 2. 自己紹介
+## 2. Ego-Prezent 自己紹介
