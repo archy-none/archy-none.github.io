@@ -123,21 +123,21 @@ Emotia:  感情、気持ち
 Patro: 親
 Kudmo: 子
 Frati: 兄弟
-Mama: 母
-Papa: 父
 
 ### [修飾詞]
 Bona: 良い、良く、優れた
 Liber: 自由な、楽な
 Ferich: 幸せな、嬉しい
-Mini: 小さい
-Mega: 大きい
-Forte: 強い
-Piane: 弱い
+Mini: 小さい、低い、狭い、短い
+Mega: 大きい、高い、広い、長い
+Forte: 強い、堅い
+Piane: 弱い、儚い
 Tre: とても
 Lite: 少し 
 Stil: まだ
 Jam: 既に
+Vos: 男の
+Mes: 女の
 
 ### [比較級]
 pli: 以上の
