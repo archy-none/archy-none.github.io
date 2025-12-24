@@ -72,7 +72,7 @@
 
 La Internacionale
 ```
-
+Gi Est My Finale Batle
 ```
 
 ---
@@ -140,6 +140,7 @@ Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
 
 Humain: 人間
+Ego: 自己、自我
 Heart: 心、精神
 Hedd: 頭、中枢
 Brein: 脳、思考装置
@@ -205,6 +206,8 @@ Auf: 上の
 Bum: 下の
 Left: 左の
 Rait: 右の
+First: 最初の
+Finale: 最後の
 
 ### [比較級]
 pli: 以上の
@@ -230,6 +233,7 @@ Trush: 捨てる
 Relat: 関わる
 Work: 作業する
 Lud: 遊ぶ
+Luche: 光る
 
 ### [数詞]
 Nul: 0
