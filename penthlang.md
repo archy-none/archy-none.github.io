@@ -43,15 +43,7 @@ Najt [名詞]: 夜、深夜
 # 文法と語彙の規則
 原則として語尾に付ける。母音があれば除いて付けるか、重複するなら`n`と一緒に付ける
 
-## 時制
-現在形は変化なし
 
-### 過去形: `ed`(エド)
-Gur -> Gured
-Kame -> Kamed
-### 未来形: `il`(イル)
-Gur -> Gured
-Kame -> Kamed
 
 ## 品詞の相互変換
 語彙を本来的な品詞から派生させて変換できる
@@ -77,17 +69,26 @@ Liber -> Liberity
 Bona -> Bonastvo
 Liber -> Liberstvo
 
+### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
+Anarkhist -> Anarkhistenz
+Bona -> Bonenz
+
 ### 動詞 -> 名詞: `ium`(イウム)
 Gur -> Gurium
 Kame -> Kamium
-
 ### 動詞 -> 修飾詞: `ing`(イング)
 Gur -> Guring
 Kame -> Kaming
 
-### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
-Anarkhist -> Anarkhistenz
-Bona -> Bonenz
+## 時制
+現在形は変化なし
+
+### 過去形: `ed`(エド)
+Gur -> Gured
+Kame -> Kamed
+### 未来形: `il`(イル)
+Gur -> Guril
+Kame -> Kamil
 
 ## 本来的語彙
 
