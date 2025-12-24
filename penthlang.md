@@ -60,21 +60,24 @@
 前置詞`ne`が否定を示す
 
 ### 連体修用
-> Mi ne Mazh a Pan
-私はパンを食べません
+> Humain Mazhing a tre Pan
+たくさんのパンを食べてる人
 
-> Mi Mazh a ne Pan
-私はパンでは無いものを食べます
+名詞の後に動詞+`ing`を置く
 
-前置詞`ne`が否定を示す
-
-### 疑問形
+### 疑問文
 
 > Chu Hi Est?
 彼居る？
 
 > Chu Vi Leived at que-land?
 どこに住んでいましたか？
+
+文頭にChuで疑問文を作れる
+
+### 比較級
+
+> My age
 
 ---
 # 文法と語彙の規則
@@ -153,6 +156,7 @@ Hand: 手
 Fut: 足
 Fing: 指
 
+Age: 年齢
 Patro: 親
 Chajrd: 子
 Fratia: 兄弟
