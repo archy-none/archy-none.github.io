@@ -91,32 +91,29 @@ la [冠詞]（固有のものに使う）
 
 原則として語尾に付ける。母音があれば除いて付けるか、重複するなら`n`と一緒に付ける
 
-### 修飾詞化
-
+### 名詞 -> 修飾詞
 Penth-Langには副詞と形容詞の違いが無く、修飾詞が前に置かれた動詞/名詞を修飾する
 
 #### 所有を表す: `y`(=ы, ゥイ)
 Mi -> My
 Anarkhist -> Anarkhisty
-
 #### 「〜的」を表す: `icce`(イッツェ)
 Mi -> Micce
 Anarkhist -> Anarkhisticce
-
 #### 「〜の様な」を表す: `ely`(エリュィ)
 Mi -> Mely
 Anarkhist -> Anarkhistely
 
-### 名詞化
-
+### 修飾詞 -> 名詞
 #### 性質を表す: `ity`’(イトゥイ)
-Bona -> Boninty
+Bona -> Bonity
 Liber -> Liberity
-
 #### 概念を表す: `stva`’(ストヴァ)
 Bona -> Bonastvo
 Liber -> Liberstvo
 
-### 動詞化: `enz`(エンズ)
+### 動詞 -> 名詞
+
+### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
 Anarkhist -> Anarkhistenz
 Bona -> Bonenz
