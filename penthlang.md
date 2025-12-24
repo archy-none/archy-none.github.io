@@ -18,12 +18,6 @@
 
 直訳で「良い(朝/昼/夜)ですね」となります
 
-**Word-Grupe: 語彙**:
-Es [動詞]: 〜である、存在する
-Morg [名詞]: 朝、夜明け
-Thaw [名詞]: 昼、昼間の
-Najt [名詞]: 夜、深夜
-
 ## 自己紹介
 
 > Mi est Anarkhist
@@ -36,18 +30,19 @@ Najt [名詞]: 夜、深夜
 
 `<A> es <B>`で「AはB」であると言う事ができる
 
-## かわいいね！
+## かわいいね！（対象を形容する）
 
-> la Mini Kodume est tre 
+> la Mini Vos-Kodume est tre tre Qute! 
+あの男の子とってもとってもかわいい！
 
-## 行為を表す動詞
-> Mi mazh a pan
+## パン食べる（行為を表す動詞）
+> Mi Mazh a Pan
 私はパンを食べてます（現在形、進行形）
 
-> Mi mazhed a pan
+> Mi Mazhed a Pan
 私はパンを食べました（過去形、完了形）
 
-> Mi mazhil a pan
+> Mi Mazhil a Pan
 私はパンを食べたいです（未来形、意思形）
 
 前置詞`a`が対格を示す
@@ -59,7 +54,7 @@ Najt [名詞]: 夜、深夜
 > Mi Mazh a ne Pan
 私はパンでは無いものを食べます
 
-> Mi es ne Lite c Qute
+> Mi es ne c Lite Qute
 私は少しも可愛く無いです
 
 前置詞`ne`が否定を示す
@@ -142,6 +137,9 @@ Emotia:  感情、気持ち
 Patro: 親
 Kudmo: 子
 Frati: 兄弟
+Morg: 朝、夜明け
+Thaw: 昼、昼間の
+Najt: 夜、深夜
 
 ### [修飾詞]
 Bona: 良い、良く、優れた
