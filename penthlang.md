@@ -102,7 +102,7 @@ Mazh -> Mazhing
 Anarkhist -> Anarkhistenz
 Bona -> Bonenz
 
-## Word-Grupe: 語彙
+## 本来的語彙
 Mi [名詞]: 私、自分
 Anarkhist [名詞]: アナキスト、無政府主義者
 Nomen [名詞]: 氏名、名称、おなまえ
