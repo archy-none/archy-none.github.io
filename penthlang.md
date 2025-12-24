@@ -10,31 +10,6 @@
 (バーイェ) さようなら！
 お別れの時に使い、英語のByeに相当します
 
-### 1.2 Expretia Proving a Emotia: 感情を示す表現
-
-> Ferich 
-(フェリーチ) 幸せ、嬉しい
-イタリア語のFeliceに相当します
-
-> Swadd
-(スゥッド) 悲しい、寂しい
-英語のSadに相当します
-
-> Golik
-(ゴールィク)- 辛い、苦い、苦しい
-ロシア語のГорькийに相当します
-
-> Sarfe 
-(サルフェ) 楽、安心
-英語のSafeに相当します
-
-> Bona Emotia 
-(ボーナ エモーティア) 心地よい、気分が良い
-直訳すると「良い気持ち」です
-
----
-**Word-Grupe: 語彙**
-
 ### 1.3 Saluta pro Each Temp: 時間ごとによる挨拶
 
 > Es Bona Morg/Thaw/Najc
@@ -61,7 +36,7 @@ Najt [名詞]: 夜、深夜
 
 `<A> es <B>`で「AはB」であると言う事ができる
 
-# Cheet-Papeur de Syntaxy Rule et Word-Grupe: 文法規則チートシート
+# Cheet-Papeur de Syntaxy Rule et Word-Grupe: 文法規則と語彙のチートシート
 
 ## 品詞の相互変換
 
@@ -103,9 +78,15 @@ Anarkhist -> Anarkhistenz
 Bona -> Bonenz
 
 ## 本来的語彙
-Mi [名詞]: 私、自分
-Anarkhist [名詞]: アナキスト、無政府主義者
-Nomen [名詞]: 氏名、名称、おなまえ
-la [冠詞]（固有のものに使う）
-Bona [修飾詞]: 良い、良く、優れた
-Emotia [名詞]:  感情、気持ち
+
+### [名詞]
+Mi: 私、自分
+Anarkhist: アナキスト、無政府主義者
+Nomen: 氏名、名称、おなまえ
+Emotia:  感情、気持ち
+
+### [修飾詞]
+Bona: 良い、良く、優れた
+Liber: 自由な、楽な
+Ferich: 
+###
