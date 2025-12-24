@@ -1,6 +1,6 @@
 # === Penth-Lang: 思索用言語 ===
 
-## 1. Saluta due Basik: 基本の挨拶
+## 基本の挨拶
 
 > Herrow!
 (ヘッローゥ) こんにちは！
@@ -10,7 +10,7 @@
 (バーイェ) さようなら！
 お別れの時に使い、英語のByeに相当します
 
-### 1.3 Saluta pro Each Temp: 時間ごとによる挨拶
+### 時間ごとによる挨拶
 
 > Es Bona Morg/Thaw/Najc
 エス　ボーナ　モルグ / トゥアゥ / ナィツ
@@ -24,7 +24,7 @@ Morg [名詞]: 朝、夜明け
 Thaw [名詞]: 昼、昼間の
 Najt [名詞]: 夜、深夜
 
-## 2. Ego-Prezent: 自己紹介
+## Ego-Prezent: 自己紹介
 
 > Mi es Anarkhist
 ミ エス アナルキスト
@@ -37,16 +37,24 @@ Najt [名詞]: 夜、深夜
 `<A> es <B>`で「AはB」であると言う事ができる
 
 
+
+
 ---
+# 文法と語彙の規則
+原則として語尾に付ける。母音があれば除いて付けるか、重複するなら`n`と一緒に付ける
 
+## 時制
+現在形は変化なし
 
-# 文法規則と語彙のチートシート
+### 過去形: `ed`(エド)
+Gur -> Gured
+Kame -> Kamed
+### 未来形: `il`(イル)
+Gur -> Gured
+Kame -> Kamed
 
 ## 品詞の相互変換
-
-## 
-
-原則として語尾に付ける。母音があれば除いて付けるか、重複するなら`n`と一緒に付ける
+語彙を本来的な品詞から派生させて変換できる
 
 ### 名詞 -> 修飾詞
 Penth-Langには副詞と形容詞の違いが無く、修飾詞が前に置かれた動詞/名詞を修飾する
@@ -70,12 +78,12 @@ Bona -> Bonastvo
 Liber -> Liberstvo
 
 ### 動詞 -> 名詞: `ium`(イウム)
-Es -> Esium
-Mazh -> Mazhium
+Gur -> Gurium
+Kame -> Kamium
 
 ### 動詞 -> 修飾詞: `ing`(イング)
-Es -> Esing
-Mazh -> Mazhing
+Gur -> Guring
+Kame -> Kaming
 
 ### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
 Anarkhist -> Anarkhistenz
@@ -85,6 +93,7 @@ Bona -> Bonenz
 
 ### [名詞]
 Mi: 私、自分
+Vi: 君、あなた
 Anarkhist: アナキスト、無政府主義者
 Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
@@ -92,5 +101,27 @@ Emotia:  感情、気持ち
 ### [修飾詞]
 Bona: 良い、良く、優れた
 Liber: 自由な、楽な
-Ferich: 
-###
+Ferich: 幸せな、嬉しい
+
+### [動詞]
+Es: ある
+Gur: 行く
+Kame: 来る
+Mazh: 食べる
+Leiv: 行く
+Sleep: 寝る
+
+### [前置詞]
+a: 〜を
+al: 〜へ
+de: 〜からの
+pro: 〜による
+fur: 〜の為の
+ls: 〜にとって
+az: 〜として
+abut: 〜について
+rel: 〜に関わる
+
+### [接続詞]
+dum: 〜の間
+zhis: 〜まで
