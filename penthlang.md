@@ -131,12 +131,24 @@ Kame -> Kamil
 Mi: 私、我々
 Vi: 君、あなたたち
 Hi: 彼、奴ら
+Vola: 意思、
 Anarkhist: アナキスト、無政府主義者
+Droid: 権限、（形式上の）権利
+Magno: 権力、暴力、生命力
+Macc: 民衆、大衆、畜群
+Nationale: 民族、国民
+Internacionale: 国際
+Staat: くに、国家、政府
+Arkhe: 根源、原理、基底
+Gosdar: 統治、政治、支配
+Tekhne: 技術、テクノロジー、制作
+Rabota: 労働、ロボット、奴隷
+Art: 芸術、アート、作品、表現
 Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
 Patro: 親
-Kudmo: 子
-Frati: 兄弟
+Chajrd: 子
+Fratia: 兄弟
 Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
@@ -159,8 +171,8 @@ Nex: 次の
 Pre: 前の
 Top: 表の
 Tel: 後ろ の
-Jup: 上の
-Mop: 下の
+Auf: 上の
+Bum: 下の
 Left: 左の
 Rait: 右の
 
