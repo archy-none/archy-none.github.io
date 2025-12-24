@@ -77,7 +77,8 @@
 
 ### 比較級
 
-> My Age Esta Mega
+> My Age Esta Atla pli Vi
+私の年齢はあなたより高いです
 
 ---
 # 文法と語彙の規則
