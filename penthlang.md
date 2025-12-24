@@ -32,8 +32,16 @@
 
 ## かわいいね！（対象を修飾する）
 
+> Qute Chajrd
+可愛い子
+
 > la Mini Vos-Chajrd est tre tre Qute! 
-あの男の子とってもとってもかわいい！
+あの小さな男の子とってもとってもかわいい！
+
+> Mi tre Amore a Vi!
+あなたをとても愛しています
+
+修飾を対象の前に持ってくる
 
 ## パン食べる（行為を表す動詞）
 > Mi Mazh a Pan
