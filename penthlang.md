@@ -95,10 +95,10 @@
 
 ### 比較級
 
-> My Age est pli Atla ols Vi
+> My Age est pli Alta ols Vi
 私の年齢はあなたより高いです
 
-> My Age est plej Atla ols Mi
+> My Age est plej Alta ols Mi
 私の年齢は私たちの中で最も上です
 
 比較するときは修飾詞に`pli/plej`を使い、比較対象の前に
