@@ -70,7 +70,7 @@
 
 ### Penth-Langでインターを歌おう！
 
-La Internacional
+La Internacionale
 ```
 
 ```
