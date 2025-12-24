@@ -70,10 +70,11 @@
 
 ### 疑問形
 
-> Chu Vi Est?
-いる？
+> Chu Hi Est?
+彼居る？
 
-> Chu Vi Leiv  que-land?
+> Chu Vi Leived at que-land?
+どこに住んでいましたか？
 
 ---
 # 文法と語彙の規則
