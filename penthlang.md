@@ -104,8 +104,7 @@ Anarkhist -> Anarkhisticce
 Mi -> Mely
 Anarkhist -> Anarkhistely
 
-### 名詞化
-語尾に``を付ける。母音があれば除いて付ける
+### 名詞化: `stva`’(ストヴァ)
 
 #### 例：
 Mi -> My
