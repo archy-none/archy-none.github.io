@@ -82,6 +82,7 @@ Kame -> Kamium
 ### 動詞 -> 修飾詞: `ing`(イング)
 Gur -> Guring
 Kame -> Kaming
+Penthed -> Pentheding
 
 ## 時制
 現在形は変化なし
@@ -119,6 +120,10 @@ ols: 〜よりも
 
 ### [動詞]
 Est: ある
+Teik: 取る
+Puc: 置く
+Penth: 考える
+
 Gur: 行く
 Kame: 来る
 Mazh: 食べる
