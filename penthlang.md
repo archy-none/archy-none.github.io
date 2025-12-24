@@ -73,6 +73,9 @@
 > Chu Vi Leived at que-land?
 どこに住んでいましたか？
 
+> Chu Vi Goril to skule at que-temp?
+いつ学校に行きますか？
+
 文頭にChuで疑問文を作れる
 
 ### 比較級
