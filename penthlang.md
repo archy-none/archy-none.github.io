@@ -106,3 +106,7 @@ Anarkhist -> Anarkhistely
 ### 名詞化: `stva`’(ストヴァ)
 Bona -> Bonastvo
 Liber -> Liberstvo
+
+### 動詞化: `enz`(エンズ)
+Anarkhist -> Anarkhistenz
+Bona -> Bonenz
