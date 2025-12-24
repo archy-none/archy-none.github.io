@@ -12,7 +12,7 @@
 
 ### 時間ごとによる挨拶
 
-> Es Bona Morg/Thaw/Najc
+> Est Bona Morg/Thaw/Najc
 エス　ボーナ　モルグ / トゥアゥ / ナィツ
 おはようございます /　こんにちは / こんばんわ
 
@@ -26,11 +26,11 @@ Najt [名詞]: 夜、深夜
 
 ## Ego-Prezent: 自己紹介
 
-> Mi es Anarkhist
+> Mi est Anarkhist
 ミ エス アナルキスト
 私はアナキストです
 
-> My Nomen es la Arkhei Jukic
+> My Nomen est la Arkhei Jukic
 ムィ ノーメン エス リャ アルケイ ユキツ
 私の名前は秋井行人です
 
@@ -114,7 +114,7 @@ plej: 最高の
 ols: 〜よりも 
 
 ### [動詞]
-Es: ある
+Est: ある
 Gur: 行く
 Kame: 来る
 Mazh: 食べる
