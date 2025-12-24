@@ -154,6 +154,24 @@ Fude: 書く
 Juz: 使う
 Trush: 捨てる
 
+### [数詞]
+Nul: 0
+Ein: 1
+Dua: 2
+Tri: 3
+Pho: 4
+Kva: 5
+Six: 6
+Evn: 7
+Okt: 8
+Zer: 9
+Dek: 10
+Cen: 100
+Mil: 1000
+
+3.14: Tri point Ein Pho
+1968: Ein-Mil Zer-Cen Six-Dek Okt
+
 ### [前置詞]
 a: 〜を
 to: 〜へ
