@@ -246,6 +246,8 @@ Left: 左の
 Rait: 右の
 First: 最初の
 Finale: 最後の
+Unia: 同じ、同一の
+Anotha: 異なる
 
 ### [比較級]
 pli: 以上の
