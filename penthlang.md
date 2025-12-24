@@ -60,7 +60,7 @@
 
 **語彙**
 Bona: 良い、良く、優れた
-Emotia: 感情
+Emotia: 感情、気持ち
 
 ### 1.3 Saluta pro Each Temp: 時間ごとによる挨拶
 
