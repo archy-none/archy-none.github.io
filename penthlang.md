@@ -168,6 +168,7 @@ Zer: 9
 Dek: 10
 Cen: 100
 Mil: 1000
+Man: 10000
 
 3.14: Tri point Ein Pho
 1968: Ein-Mil Zer-Cen Six-Dek Okt
