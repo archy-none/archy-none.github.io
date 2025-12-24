@@ -155,6 +155,8 @@ Stil: まだ
 Jam: 既に
 Vos: 男の
 Mes: 女の
+Next: 次の
+Prev: 前の
 
 ### [比較級]
 pli: 以上の
