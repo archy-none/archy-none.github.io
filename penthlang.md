@@ -186,12 +186,14 @@ Rizun: 理由、言い訳
 Bolum: 量、ボリューム
 
 Mond: 世界、環境
-Droid: 権限（形式上の）権利
+Droid: 権限、（形式上の）権利
 Magno: 権力、暴力、生命力
 Macc: 民衆、大衆、畜群
 Sociale: 社会、世間
 Nacionale: 民族、国民
 Staat: くに、国家、政府
+Police: 警察、官憲、（転じて）鬼
+Armia: 軍隊、武装、部隊
 Skule: 学校、大学、学派
 Corp: 共同、会社、コーポレーション
 Internacionale: 国際、インターナショナル
@@ -201,7 +203,10 @@ Anarkhe: 無政府、無秩序
 Gosdar: 統治、政治、支配
 Situacion: 状況、シチュエーション
 Anarkhist: アナキスト、無政府主義者
+Anarkhizm: アナーキズム、無政府主義
 Situacionist: シチュアシオニスト
+
+Zain: 存在
 Tekhne: 技術、テクノロジー、制作
 Rabota: 仕事、ロボット、奴隷
 Art: 芸術、アート、作品、表現
@@ -248,6 +253,9 @@ ols: 〜よりも
 
 ### [動詞]
 Est: ある
+Pov: 出来る
+Shud: すべき
+Hade: しなければならない 
 Teik: 取る
 Puc: 置く
 Penth: 考える
