@@ -256,6 +256,8 @@ First: 最初の
 Finale: 最後の
 Unia: 同じ、同一の
 Anotha: 異なる
+Qute: 可愛い
+Grand: かっこいい、偉大な
 
 ### [比較級]
 pli: 以上の
