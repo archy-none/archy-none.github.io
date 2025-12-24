@@ -30,8 +30,8 @@ Najt [名詞]: 夜、深夜
 ミ エス アナルキスト
 私はアナキストです
 
-> My Nomen est la Arkhei Jukic
-ムィ ノーメン エス リャ アルケイ ユキツ
+> My Nomen est la Arkhei Nonen(Archy None)
+ムィ ノーメン エス リャ アルケイ ノーネン
 私の名前は秋井行人です
 
 `<A> es <B>`で「AはB」であると言う事ができる
