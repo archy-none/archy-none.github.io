@@ -73,7 +73,7 @@
 > Chu Vi Leived at que-land?
 どこに住んでいましたか？
 
-> Chu Vi Goril to skule at que-temp?
+> Chu Vi Goril to Skule at que-temp?
 いつ学校に行きますか？
 
 文頭にChuで疑問文を作れる
@@ -185,6 +185,8 @@ Macc: 民衆、大衆、畜群
 Sociale: 社会、世間
 Nacionale: 民族、国民
 Staat: くに、国家、政府
+Skule: 学校、大学、学派
+Corp: 共同、会社、コーポレーション
 Internacionale: 国際、インターナショナル
 Ethik: 倫理、規範、言い付け
 Arkhe: 根源、原理、基底
