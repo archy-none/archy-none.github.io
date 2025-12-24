@@ -78,7 +78,7 @@
 > Chu Hi est?
 あいつ居る？
 
-> Chu Vi Goril to  que-Land?
+> Chu Vi Goril to que-Land?
 どこに行きますか？
 
 > Chu Vi Goril to Skule at que-Temp?
