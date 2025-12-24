@@ -32,7 +32,7 @@
 
 ## かわいいね！（対象を形容する）
 
-> la Mini Vos-Chajrd est tre tre Piane! 
+> la Mini Vos-Chajrd est tre tre Qute! 
 あの男の子とってもとってもかわいい！
 
 ## パン食べる（行為を表す動詞）
@@ -87,10 +87,10 @@
 
 ### 比較級
 
-> My Age est Atla pli Vi
+> My Age est pli Atla ols Vi
 私の年齢はあなたより高いです
 
-> My Age est Atla plej Mi
+> My Age est plej Atla ols Mi
 私の年齢は私たちの中で最も上です
 
 比較するときは`pli/plej`を使う
