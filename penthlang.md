@@ -38,7 +38,7 @@ Najt [名詞]: 夜、深夜
 
 ## かわいいね！
 
-> La lite
+> la Mini Kodume est tre 
 
 ## 行為を表す動詞
 > Mi mazh a pan
@@ -120,6 +120,11 @@ Hi: 彼、奴ら
 Anarkhist: アナキスト、無政府主義者
 Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
+Patro: 親
+Kudmo: 子
+Frati: 兄弟
+Mama: 母
+Papa: 父
 
 ### [修飾詞]
 Bona: 良い、良く、優れた
