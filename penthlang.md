@@ -77,3 +77,11 @@ Thaw: 昼、昼間の
 Najt: 夜、深夜
 
 ## 2. Ego-Prezent 自己紹介
+
+- Mi es Anarkhist
+ミ エス アナルキスト
+私はアナキストです
+
+- Mi nomen es la Arkhei Jukic
+ミ ノーメン エス ルァ アルケイ ユキツ
+私の名前は秋井行人です
