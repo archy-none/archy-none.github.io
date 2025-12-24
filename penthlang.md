@@ -133,25 +133,41 @@ Vi: 君、あなたたち
 Hi: 彼、奴ら
 Vola: 意思、
 Anarkhist: アナキスト、無政府主義者
+Situacionist: シチュアシオニスト
 Droid: 権限（形式上の）権利
 Magno: 権力、暴力、生命力
 Macc: 民衆、大衆、畜群
-Nationale: 民族、国民
-Internacionale: 国際
+Sociale: 社会、世間
+Nacionale: 民族、国民
+Mond: 世界、環境
+Internacionale: 国際、インターナショナル
 Staat: くに、国家、政府
+Idea: 思想、観念、イデオロギー
+Logik: 論理、
+Ethik: 倫理、規範、言いつけ
+Dreem: 夢、空想
+Real: 現実
 Arkhe: 根源、原理、基底
 Gosdar: 統治、政治、支配
 Tekhne: 技術、テクノロジー、制作
-Rabota: 労働、ロボット、奴隷
+Rabota: 仕事、ロボット、奴隷
 Art: 芸術、アート、作品、表現
 Nomen: 氏名、名称、おなまえ
 Emotia:  感情、気持ち
+Humain: 人間
+Heart: 心、精神
+
+Hand: 手
+Fut: 足
+
 Patro: 親
 Chajrd: 子
 Fratia: 兄弟
+Temp: 時間、時
 Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
+Situacion: 状況
 
 ### [修飾詞]
 Bona: 良い、良く、優れた
@@ -197,6 +213,8 @@ Legi: 読む
 Fude: 書く
 Juz: 使う
 Trush: 捨てる
+Relat: 関わる
+Work: 作業する
 
 ### [数詞]
 Nul: 0
