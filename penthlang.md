@@ -70,10 +70,10 @@
 
 ### 疑問形
 
-> Chu Vi est?
+> Chu Vi Est?
 いる？
 
-Que-land 
+> Chu Vi Leiv  que-land?
 
 ---
 # 文法と語彙の規則
@@ -257,10 +257,11 @@ Mil: 1000
 1968: Ein-Mil Zer-Cen Six-Dek Okt
 
 ### [前置詞]
-c: 〜も
 a: 〜を
+c: 〜も
 to: 〜へ
 de: 〜からの
+at: 〜において
 pro: 〜による
 fur: 〜の為の
 ls: 〜にとって
