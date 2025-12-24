@@ -32,7 +32,7 @@
 
 ## かわいいね！（対象を形容する）
 
-> la Mini Vos-Kodume est tre tre Qute! 
+> la Mini Vos-Kodume est tre tre Piane! 
 あの男の子とってもとってもかわいい！
 
 ## パン食べる（行為を表す動詞）
@@ -47,14 +47,14 @@
 
 前置詞`a`が対格を示す
 
-### 否定する
+### （）否定する
 > Mi ne Mazh a Pan
 私はパンを食べません
 
 > Mi Mazh a ne Pan
 私はパンでは無いものを食べます
 
-> Mi es ne c Lite Qute
+> Mi es ne c Lite Piane
 私は少しも可愛く無いです
 
 前置詞`ne`が否定を示す
@@ -77,7 +77,7 @@
 
 ### 比較級
 
-> My age
+> My Age Esta Mega
 
 ---
 # 文法と語彙の規則
@@ -194,14 +194,20 @@ Real: 現実
 
 ### [修飾詞]
 Bona: 良い、良く、優れた
-Liber: 自由な、楽な
-Ferich: 幸せな、嬉しい
-Mini: 小さい、低い、狭い、短い
-Mega: 大きい、高い、広い、長い
+Bada: 悪い、悪く、劣った
+Liber: 自由な、楽な、安心な
+Ferich: 幸せな、嬉しい、楽しい
+Sadd: 悲しい、苦しい、辛い
+Mini: 小さい、狭い、短い
+Mega: 大きい、広い、長い
+Alte: 高い、高額
+Umil: 低い、安い
 Forte: 強い、堅い
-Piane: 弱い、儚い
-Tre: とても
-Lite: 少し 
+Piane: 弱い、脆い
+Tre: とても、多い
+Lite: 少し、少ない
+Part: 部分の
+Tuda: 全ての
 Stil: まだ
 Jam: 既に
 Vos: 男の
@@ -209,7 +215,7 @@ Mes: 女の
 Nex: 次の
 Pre: 前の
 Top: 表の
-Tel: 後ろ の
+Bakk: 裏の
 Auf: 上の
 Bum: 下の
 Left: 左の
