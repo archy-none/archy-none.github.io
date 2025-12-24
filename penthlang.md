@@ -36,11 +36,26 @@ Najt [名詞]: 夜、深夜
 
 `<A> es <B>`で「AはB」であると言う事ができる
 
-## 食べる
-> Mi 
+## かわいいね！
 
-> Mi taber a ramentabel
+> La lite
 
+## 行為を表す動詞
+> Mi mazh a pan
+私はパンを食べます
+
+> Mi mazhed a pan
+私はパンを食べました
+
+> Mi mazhed a pan
+私はパンを食べました
+
+### 否定形
+> Mi ne mazh a pan
+私はパンを食べません
+
+> Mi mazh a ne pan
+私はパンでは無いものを食べます
 
 ---
 # 文法と語彙の規則
@@ -108,10 +123,14 @@ Emotia:  感情、気持ち
 Bona: 良い、良く、優れた
 Liber: 自由な、楽な
 Ferich: 幸せな、嬉しい
-tre: とても
-lite: 少し 
-stil: まだ
-jam: 既に
+Mini: 小さい
+Mega: 大きい
+Forte: 強い
+Piane: 弱い
+Tre: とても
+Lite: 少し 
+Stil: まだ
+Jam: 既に
 
 ### [比較級]
 pli: 以上の
@@ -123,7 +142,6 @@ Est: ある
 Teik: 取る
 Puc: 置く
 Penth: 考える
-
 Gur: 行く
 Kame: 来る
 Mazh: 食べる
