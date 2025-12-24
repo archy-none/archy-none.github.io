@@ -1,6 +1,6 @@
 # === Penth Lang: 思索用言語 ===
 
-## 1. Saluta - 挨拶
+## 1. Saluta due Basik: 基本の挨拶
 
 > Herrow!
 ヘッローゥ
@@ -14,7 +14,7 @@
 
 お別れの時に使い、英語のByeに相当します
 
-### 時間ごとの挨拶
+### 1.2 Saluta pro Each Temp: 時間ごとによる挨拶
 
 > Es Bona (Morg/Thaw/Najc)
 エス　ボーナ　モルグ / トゥアゥ /  ナィツ
@@ -29,4 +29,4 @@ Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
 
-###
+### 1.3 Expretia Signifen Emotia: 感情を表す表現
