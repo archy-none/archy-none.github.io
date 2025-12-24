@@ -157,12 +157,12 @@ Vos: 男の
 Mes: 女の
 Nex: 次の
 Pre: 前の
-Top: 表
-Tel: 後ろ 
-Jup: 上
-Mop: 下
-Left: 左
-Rait: 右
+Top: 表の
+Tel: 後ろ の
+Jup: 上の
+Mop: 下の
+Left: 左の
+Rait: 右の
 
 ### [比較級]
 pli: 以上の
