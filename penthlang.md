@@ -2,21 +2,41 @@
 
 ## 1. Saluta due Basik: 基本の挨拶
 
-> Herrow!
+- Herrow!
 ヘッローゥ
 こんにちは！
 
 日常的な挨拶で、英語のHelloに相当します
 
-> Baje!
+- Baje!
 バーイェ
 さようなら！
 
 お別れの時に使い、英語のByeに相当します
 
-### 1.2 Saluta pro Each Temp: 時間ごとによる挨拶
+### 1.2 Expretia Signifen Emotia: 感情を示す表現
 
-> Es Bona (Morg/Thaw/Najc)
+- Ferich
+読み：フェリーチ
+幸せ、嬉しい
+
+イタリア語のFeliceに相当します
+
+- Saddum
+読み：サッドゥム
+悲しい、寂しい
+
+英語のSadに相当します
+
+- Golik
+読み：ゴールィク
+辛い、苦い
+
+ロシア語のГорький
+
+### 1.3 Saluta pro Each Temp: 時間ごとによる挨拶
+
+- Es Bona (Morg/Thaw/Najc)
 エス　ボーナ　モルグ / トゥアゥ /  ナィツ
 おはようございます /　こんにちは / こんばんわ
 
@@ -29,4 +49,4 @@ Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
 
-### 1.3 Expretia Signifen Emotia: 感情を表す表現
+## 2.
