@@ -98,7 +98,7 @@ Anarkhist -> Anarkhisty
 Mi -> Micce
 Anarkhist -> Anarkhisticce
 
-#### 「〜の様に」を表す: `ely`(エリュィ)
+#### 「〜の様な」を表す: `ely`(エリュィ)
 Mi -> Mely
 Anarkhist -> Anarkhistely
 
