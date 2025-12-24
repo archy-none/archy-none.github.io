@@ -12,7 +12,7 @@
 
 ### 時間ごとによる挨拶
 
-> Est Bona Morg/Thaw/Najc
+> est Bona Morg/Thaw/Najc
 エス　ボーナ　モルグ / トゥアゥ / ナィツ
 おはようございます /　こんにちは / こんばんわ
 
@@ -67,7 +67,7 @@
 
 ### 疑問文
 
-> Chu Hi Est?
+> Chu Hi est?
 彼居る？
 
 > Chu Vi Leived at que-land?
@@ -77,10 +77,10 @@
 
 ### 比較級
 
-> My Age Esta Atla pli Vi
+> My Age est Atla pli Vi
 私の年齢はあなたより高いです
 
-> My Age Esta Atla plej Mi
+> My Age est Atla plej Mi
 私の年齢は私たちの中で最も上です
 
 比較するときは`pli/plej`を使う
