@@ -16,7 +16,7 @@
 
 お別れの時に使い、英語のByeに相当します
 
-### 1.2 Expretia to Prove a Emotia: 感情を示す表現
+### 1.2 Expretia Proving a Emotia: 感情を示す表現
 
 > Ferich 
 (フェリーチ) 幸せ、嬉しい
@@ -112,7 +112,9 @@ Liber -> Liberity
 Bona -> Bonastvo
 Liber -> Liberstvo
 
-### 動詞 -> 名詞
+### 動詞 -> 名詞: `ing`(イング)
+Es -> Esing
+Mazh -> Mazhing
 
 ### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
 Anarkhist -> Anarkhistenz
