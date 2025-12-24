@@ -82,9 +82,12 @@ Najt: 夜、深夜
 ミ エス アナルキスト
 私はアナキストです
 
-- Mi nomen es la Arkhei Jukic
-ミ ノーメン エス リャ アルケイ ユキツ
+- My Nomen es la Arkhei Jukic
+ムィ ノーメン エス リャ アルケイ ユキツ
 私の名前は秋井行人です
+
+<主語> es <>
 
 **語彙**:
 nomen: 氏名、名称
+la: 冠詞
