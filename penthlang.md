@@ -77,8 +77,8 @@ Najt: 夜、深夜
 ミ エス アナルキスト
 私はアナキストです
 
-> Mina Nomen es la Arkhei Jukic
-ミーナ ノーメン エス リャ アルケイ ユキツ
+> My Nomen es la Arkhei Jukic
+ムィ ノーメン エス リャ アルケイ ユキツ
 私の名前は秋井行人です
 
 ### 文法
@@ -87,7 +87,7 @@ Najt: 夜、深夜
 ---
 **Word-Grupe: 語彙**:
 Mi: 私、自分
-Mina: 私の〜、私のもの
+My: 私の〜、私のもの
 Anarkhist: アナキスト、無政府主義者
 Nomen: 氏名、名称
 la: 冠詞
