@@ -68,12 +68,12 @@
 
 前置詞`ne`が否定を示す
 
-### Penth-Langでインターを歌おう！
+### 疑問形
 
-La Internacionale
-```
-Gi Est My Finale Batle
-```
+> Chu Vi est?
+いる？
+
+Que-land 
 
 ---
 # 文法と語彙の規則
@@ -155,11 +155,13 @@ Fing: 指
 Patro: 親
 Chajrd: 子
 Fratia: 兄弟
-
-Temp: 時間、時
 Morg: 朝、夜明け
 Thaw: 昼、昼間の
 Najt: 夜、深夜
+
+Temp: 時間、時
+Land: 場所、土地
+Rizun: 理由、言い訳
 
 Mond: 世界、環境
 Droid: 権限（形式上の）権利
@@ -176,11 +178,11 @@ Gosdar: 統治、政治、支配
 Situacion: 状況、シチュエーション
 Anarkhist: アナキスト、無政府主義者
 Situacionist: シチュアシオニスト
-Idea: 思想、観念、イデオロギー
-Logik: 論理、理性、理由、言い訳
 Tekhne: 技術、テクノロジー、制作
 Rabota: 仕事、ロボット、奴隷
 Art: 芸術、アート、作品、表現
+Idea: 思想、観念、イデオロギー
+Logik: 論理、理性
 Dreem: 夢、空想
 Real: 現実
 
