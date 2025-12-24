@@ -32,7 +32,7 @@
 
 ## かわいいね！（対象を形容する）
 
-> la Mini Vos-Kodume est tre tre Piane! 
+> la Mini Vos-Chajrd est tre tre Piane! 
 あの男の子とってもとってもかわいい！
 
 ## パン食べる（行為を表す動詞）
