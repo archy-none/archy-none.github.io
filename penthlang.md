@@ -94,9 +94,13 @@ la [冠詞]（固有のものに使う）
 Mi -> My
 Anarkhist -> Anarkhisty
 
-#### 「〜的」を表す: `icche`(イスチェ)
-Mi -> Micche
-Anarkhist -> Anarkhisticche
+#### 「〜的」を表す: `icce`(イッツェ)
+Mi -> Micce
+Anarkhist -> Anarkhisticce
+
+#### 「〜の様に」を表す: `ely`(エリュィ)
+Mi -> Mely
+Anarkhist -> Anarkhistely
 
 ### 名詞化
 語尾に``を付ける。母音があれば除いて付ける
