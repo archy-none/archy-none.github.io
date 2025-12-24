@@ -103,15 +103,15 @@ Emotia:  感情、気持ち
 Bona: 良い、良く、優れた
 Liber: 自由な、楽な
 Ferich: 幸せな、嬉しい
+tre: とても
+lite: 少し 
 stil: まだ
 jam: 既に
 
 ### [比較級]
-pli: より
-plej: 最も
-
-
-
+pli: 以上の
+plej: 最高の
+ols: 〜よりも 
 
 ### [動詞]
 Es: ある
