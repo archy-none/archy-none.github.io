@@ -133,7 +133,7 @@ Vi: 君、あなたたち
 Hi: 彼、奴ら
 Vola: 意思、
 Anarkhist: アナキスト、無政府主義者
-Droid: 権限、（形式上の）権利
+Droid: 権限（形式上の）権利
 Magno: 権力、暴力、生命力
 Macc: 民衆、大衆、畜群
 Nationale: 民族、国民
