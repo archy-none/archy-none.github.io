@@ -62,7 +62,7 @@
 > Mi Mazh a ne Pan
 私はパンでは無いものを食べます
 
-> Mi es ne c Lite Piane
+> Mi est ne c Lite Piane
 私は少しも可愛く無いです
 
 前置詞`ne`が否定を示す
