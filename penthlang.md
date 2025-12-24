@@ -207,6 +207,7 @@ Anarkhizm: アナーキズム、無政府主義
 Situacionist: シチュアシオニスト
 
 Zain: 存在
+数字
 Tekhne: 技術、テクノロジー、制作
 Rabota: 仕事、ロボット、奴隷
 Art: 芸術、アート、作品、表現
@@ -256,6 +257,7 @@ Est: ある
 Pov: 出来る
 Shud: すべき
 Hade: しなければならない 
+Leti: （無理やり）させる
 Teik: 取る
 Puc: 置く
 Penth: 考える
