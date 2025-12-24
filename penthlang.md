@@ -3,17 +3,11 @@
 ## 1. Saluta due Basik: 基本の挨拶
 
 > Herrow!
-
 (ヘッローゥ) こんにちは！
-
 日常的な挨拶で、英語のHelloに相当します
 
----
-
 > Baje!
-
 (バーイェ) さようなら！
-
 お別れの時に使い、英語のByeに相当します
 
 ### 1.2 Expretia Proving a Emotia: 感情を示す表現
@@ -22,31 +16,24 @@
 (フェリーチ) 幸せ、嬉しい
 イタリア語のFeliceに相当します
 
----
 > Swadd
 (スゥッド) 悲しい、寂しい
 英語のSadに相当します
 
----
 > Golik
 (ゴールィク)- 辛い、苦い、苦しい
 ロシア語のГорькийに相当します
 
----
 > Sarfe 
 (サルフェ) 楽、安心
 英語のSafeに相当します
 
----
 > Bona Emotia 
 (ボーナ エモーティア) 心地よい、気分が良い
-
 直訳すると「良い気持ち」です
 
 ---
 **Word-Grupe: 語彙**
-Bona [修飾詞]: 良い、良く、優れた
-Emotia [名詞]:  感情、気持ち
 
 ### 1.3 Saluta pro Each Temp: 時間ごとによる挨拶
 
@@ -72,18 +59,9 @@ Najt [名詞]: 夜、深夜
 ムィ ノーメン エス リャ アルケイ ユキツ
 私の名前は秋井行人です
 
-### 文法
 `<A> es <B>`で「AはB」であると言う事ができる
 
----
-**Word-Grupe: 語彙**:
-Mi [名詞]: 私、自分
-My [修飾詞]: 私の〜、私のもの
-Anarkhist [名詞]: アナキスト、無政府主義者
-Nomen [名詞]: 氏名、名称、おなまえ
-la [冠詞]（固有のものに使う）
-
-# Cheet-Papeur de Syntaxy Rule: 文法規則チートシート
+# Cheet-Papeur de Syntaxy Rule et Word-Grupe: 文法規則チートシート
 
 ## 品詞の相互変換
 
@@ -123,3 +101,12 @@ Mazh -> Mazhing
 ### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
 Anarkhist -> Anarkhistenz
 Bona -> Bonenz
+
+## Word-Grupe: 語彙
+Mi [名詞]: 私、自分
+My [修飾詞]: 私の〜、私のもの
+Anarkhist [名詞]: アナキスト、無政府主義者
+Nomen [名詞]: 氏名、名称、おなまえ
+la [冠詞]（固有のものに使う）
+Bona [修飾詞]: 良い、良く、優れた
+Emotia [名詞]:  感情、気持ち
