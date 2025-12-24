@@ -118,8 +118,9 @@ Es: ある
 Gur: 行く
 Kame: 来る
 Mazh: 食べる
-Leiv: 行く
-Sleep: 寝る
+Leiv: 生きる
+Mort: 死ぬ
+Spif: 寝る
 
 ### [前置詞]
 a: 〜を
