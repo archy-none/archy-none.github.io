@@ -75,23 +75,23 @@
 
 ### あいつ居る？（疑問文）
 
-> Chu Hi est?
+> chu Hi est?
 あいつ居る？
 
-> Chu Vi Goril to que-Land?
+> chu Vi Goril to que-Land?
 どこに行きますか？
 
-> Chu Vi Goril to Skule at que-Temp?
+> chu Vi Goril to Skule at que-Temp?
 いつ学校に行きますか？
 
-> Chu Vi Gor to Skule pro que-Rizun?
+> chu Vi Gor to Skule pro que-Rizun?
 なぜ学校に行くのですか？
 
-> Chu Vi est at Skule que-Bolum?
+> chu Vi est at Skule que-Bolum?
 どれほど学校にいますか？
 
 
-文頭にChuで疑問文を作れる。何かを尋ねる時は聞き出したい情報の前に`que-`をつける。
+文頭にchuで疑問文を作れる。何かを尋ねる時は聞き出したい情報の前に`que-`をつける。
 
 ### 比較級
 
