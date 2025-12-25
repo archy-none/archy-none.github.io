@@ -134,8 +134,8 @@ Anarkhist -> Anarkhistely
 Bona -> Bonity
 Liber -> Liberity
 #### 概念を表す: `stva`’(ストヴァ)
-Bona -> Bonastvo
-Liber -> Liberstvo
+Bona -> Bonastva
+Liber -> Liberstva
 
 ### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
 Anarkhist -> Anarkhistenz
