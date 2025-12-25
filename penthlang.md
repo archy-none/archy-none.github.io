@@ -105,7 +105,8 @@
 
 ### インター
 
-
+Gi est tuda my finale, et Se
+c la Internacionale, estil Humainstva!
 
 
 ---
@@ -272,6 +273,7 @@ plej: 最高の
 ols: 〜よりも 
 
 ### [動詞]
+Se: しよう
 Est: ある
 Pov: 出来る
 Shud: すべき
