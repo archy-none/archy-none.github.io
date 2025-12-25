@@ -108,13 +108,13 @@
 Se Wake Auf, Rabotist at bum Gestell,
 Se Wake Auf, Humain Esting Sadd.
 My Anger Leivil al Kapitalist
-Fur Revolucion de Sociale
-Tuda Mond ested Bada pro Gestell,
+fur Revolucion de Sociale
+Tuda Mond ested Bada pro Hi,
 Hi est Google, et Mikrosoft,
-Mi hade a leting a hi al mort.
-Se Reteik a Poiesis!
+Mi hade a leting a Hi al Mort.
+et Se Reteik a Poiesis!
 
-Gi est My Finale, et Se gruppenz fur
+Gi est My Finale, et Se gruppenc fur
 c la Internacionale, Estil Humainstva!
 
 
@@ -148,9 +148,9 @@ Liber -> Liberity
 Bona -> Bonastva
 Liber -> Liberstva
 
-### 名詞/修飾詞 -> 動詞: `enz`(エンズ)
-Anarkhist -> Anarkhistenz
-Bona -> Bonenz
+### 名詞/修飾詞 -> 動詞: `enc`(エンズ)
+Anarkhist -> Anarkhistenc
+Bona -> Bonenc
 
 ### 動詞 -> 名詞: `ium`(イウム)
 Gur -> Gurium
