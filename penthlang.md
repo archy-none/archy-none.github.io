@@ -107,7 +107,12 @@
 
 Se Wake Auf, Rabotist at bum Gestell,
 Se Wake Auf, Humain Esting Sadd.
-My Anger  al 
+My Anger Leivil al Kapitalist
+Fur Revolucion de Sociale
+Tuda Mond ested Bada pro Gestell,
+Hi est Google, et Mikrosoft,
+Mi hade a leting a hi al mort.
+Se Reteik a Poiesis!
 
 Gi est My Finale, et Se gruppenz fur
 c la Internacionale, Estil Humainstva!
@@ -217,6 +222,7 @@ Armia: 軍隊、武装、部隊
 Skule: 学校、大学、学派
 Corp: 共同、会社、コーポレーション
 Internacionale: 国際、インターナショナル
+Revolucion: 革命、引っくり返す、転回
 Ethik: 倫理、規範、言い付け
 Arkhe: 根源、原理、基底
 Anarkhe: 無政府、無秩序
@@ -227,7 +233,7 @@ Anarkhizm: アナーキズム、無政府主義
 Situacionist: シチュアシオニスト
 
 Zain: 存在
-数字
+Numbre: 数字
 Tekhne: 技術、テクノロジー、制作
 Rabota: 仕事、ロボット、奴隷
 Art: 芸術、アート、作品、表現
@@ -251,6 +257,7 @@ Forte: 強い、堅い
 Piane: 弱い、脆い
 Tre: とても、多い
 Lite: 少し、少ない
+Mort: 死ぬ、消える
 Part: 部分の
 Tuda: 全ての
 Stil: まだ
@@ -291,7 +298,6 @@ Gur: 行く
 Kame: 来る
 Mazh: 食べる、飲み込む
 Leiv: 生きる、生まれる
-Mort: 死ぬ、消える
 Spif: 寝る
 Wake: 起きる
 Legi: 読む
