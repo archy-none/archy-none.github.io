@@ -105,9 +105,9 @@
 
 ### インター
 
-Se Auf, a Rabotist at bum Gestell
-
-
+Se Wake Auf, Rabotist at bum Gestell,
+Se Wake Auf, Humain Esting Sadd.
+My Anger  al 
 
 Gi est My Finale, et Se gruppenz fur
 c la Internacionale, Estil Humainstva!
@@ -241,6 +241,7 @@ Bona: 良い、良く、優れた
 Bada: 悪い、悪く、劣った
 Liber: 自由な、楽な、安心な
 Ferich: 幸せな、嬉しい、楽しい
+Anger: 怒り、憎しみ、憤り
 Sadd: 悲しい、苦しい、辛い
 Mini: 小さい、狭い、短い
 Mega: 大きい、広い、長い
@@ -288,9 +289,9 @@ Puc: 置く
 Penth: 考える
 Gur: 行く
 Kame: 来る
-Mazh: 食べる
-Leiv: 生きる
-Mort: 死ぬ
+Mazh: 食べる、飲み込む
+Leiv: 生きる、生まれる
+Mort: 死ぬ、消える
 Spif: 寝る
 Wake: 起きる
 Legi: 読む
