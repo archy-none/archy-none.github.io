@@ -125,9 +125,9 @@ Anarkhist -> Anarkhisty
 #### 「〜的」を表す: `icce`(イッツェ)
 Mi -> Micce
 Anarkhist -> Anarkhisticce
-#### 「〜の様な」を表す: `ely`(エリュィ)
-Mi -> Mely
-Anarkhist -> Anarkhistely
+#### 「〜の様な」を表す: `elj`(エリュィ)
+Mi -> Melj
+Anarkhist -> Anarkhistelj
 
 ### 修飾詞 -> 名詞
 #### 性質を表す: `ity`’(イトゥイ)
@@ -331,6 +331,6 @@ et:　〜と〜
 au: 〜か〜
 dum: 〜の間〜
 zhis: 〜まで〜
-esly: 〜もし〜
+esli: 〜もし〜
 da: そう、だから、故に
 tamen: しかし、だけど、少なくとも
