@@ -105,8 +105,12 @@
 
 ### インター
 
-Gi est tuda my finale, et Se
-c la Internacionale, estil Humainstva!
+Se Auf, a Rabotist at bum Gestell
+
+
+
+Gi est My Finale, et Se gruppenz fur
+c la Internacionale, Estil Humainstva!
 
 
 ---
