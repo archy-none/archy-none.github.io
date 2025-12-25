@@ -62,7 +62,7 @@
 > Mi Mazh a ne Pan
 私はパンでは無いものを食べます
 
-> Mi est ne c Lite Piane
+> Mi est ne to Lite Piane
 私は少しも可愛く無いです
 
 前置詞`ne`が否定を示す
@@ -78,13 +78,13 @@
 > chu Hi est?
 あいつ居る？
 
-> chu Vi Goril to que-Land?
+> chu Vi Goril al que-Land?
 どこに行きますか？
 
-> chu Vi Goril to Skule at que-Temp?
+> chu Vi Goril al Skule at que-Temp?
 いつ学校に行きますか？
 
-> chu Vi Gor to Skule pro que-Rizun?
+> chu Vi Gor al Skule pro que-Rizun?
 なぜ学校に行くのですか？
 
 > chu Vi est at Skule que-Bolum?
@@ -104,6 +104,7 @@
 比較するときは修飾詞に`pli/plej`を使い、比較対象の前に
 
 ### インター
+
 
 
 
@@ -315,8 +316,9 @@ Mil: 1000
 
 ### [前置詞]
 a: 〜を
-c: 〜も
-to: 〜へ
+al: 〜へ
+to: 〜も 
+cu: 〜と共に
 de: 〜からの
 at: 〜において
 pro: 〜による
