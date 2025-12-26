@@ -115,8 +115,9 @@ Mi Hade a Letium a Hi al Mort.
 et se Reteik a Poiesis!
 
 Gi est My Finale, et se Gruppenz fur
+Avengard-Tekhny Bund, letil a mi al liber!
+Gi est My Finale, et se Gruppenz fur
 Internacionale, estil Humainstva!
-
 
 ---
 # 文法と語彙の規則
@@ -290,7 +291,7 @@ Est: ある
 Pov: 出来る
 Shud: すべき
 Hade: しなければならない 
-Leti: （無理やり）させる
+Leti: （他動詞）させる
 Teik: 取る
 Puc: 置く
 Penth: 考える
