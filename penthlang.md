@@ -115,7 +115,7 @@ Mi hade a leting a Hi al Mort.
 et Se Reteik a Poiesis!
 
 Gi est My Finale, et Se gruppenz fur
-c la Internacionale, Estil Humainstva!
+la Internacionale, estil Humainstva!
 
 
 ---
