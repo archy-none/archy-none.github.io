@@ -114,9 +114,9 @@ Hi est Google, et to Mikrosoft,
 Mi Hade a Letium a Hi al Mort.
 et se Reteik a Poiesis!
 
-Gi est My Finale, et se Gruppenz fur
-Avengard-Tekhny Bund, letil a mi al liber!
-Gi est My Finale, et se Gruppenz fur
+Gi est My Boina, et se Gruppenz fur
+L'Avengard-Tekhne-Bund, Leting a Mi al Liber!
+Sigaly aud leiv at Vid Sonny Luche Auf! 
 Internacionale, estil Humainstva!
 
 ---
