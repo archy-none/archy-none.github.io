@@ -114,7 +114,7 @@ Hi est Google, et Mikrosoft,
 Mi hade a leting a Hi al Mort.
 et Se Reteik a Poiesis!
 
-Gi est My Finale, et Se gruppenz fur
+Gi est My Finale, et se Gruppenz fur
 la Internacionale, estil Humainstva!
 
 
