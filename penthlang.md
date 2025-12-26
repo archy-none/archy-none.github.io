@@ -110,12 +110,12 @@ se Wake Auf, Humain esting Sadd.
 My Anger Leivil al Kapitalist
 fur Revolucion de Sociale
 Tuda Mond ested Bada pro Hi,
-Hi est Google, et Mikrosoft,
+Hi est Google, et to Mikrosoft,
 Mi Hade a Letium a Hi al Mort.
 et se Reteik a Poiesis!
 
 Gi est My Finale, et se Gruppenz fur
-la Internacionale, estil Humainstva!
+Internacionale, estil Humainstva!
 
 
 ---
