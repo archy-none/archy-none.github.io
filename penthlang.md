@@ -106,7 +106,7 @@
 ### インター
 
 se Wake Auf, Rabotist at bum Gestell,
-se Wake Auf, Humain Esting Sadd.
+se Wake Auf, Humain esting Sadd.
 My Anger Leivil al Kapitalist
 fur Revolucion de Sociale
 Tuda Mond ested Bada pro Hi,
