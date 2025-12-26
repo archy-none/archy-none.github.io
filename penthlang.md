@@ -111,7 +111,7 @@ My Anger Leivil al Kapitalist
 fur Revolucion de Sociale
 Tuda Mond ested Bada pro Hi,
 Hi est Google, et Mikrosoft,
-Mi hade a leting a Hi al Mort.
+Mi Hade a Letium a Hi al Mort.
 et se Reteik a Poiesis!
 
 Gi est My Finale, et se Gruppenz fur
