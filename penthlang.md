@@ -116,7 +116,7 @@ et se Reteik a Poiesis!
 
 Gi est My Boina, et se Gruppenz fur
 L'Avengard-Tekhne-Bund, Leting a Mi al Liber!
-Sigaly aud leiv at Vid Sonny Luche Auf! 
+Sigaly Audium Leiv at Vid Sonny Luche Auf! 
 Internacionale, estil Humainstva!
 
 ---
